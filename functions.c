@@ -1,3 +1,6 @@
+#include <stdio.h>
+#include <math.h>
+
 void Exercise_1()
 {
     int x = 0;
